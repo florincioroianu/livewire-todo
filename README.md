@@ -12,3 +12,7 @@ Livewire To do app for university project
 5) Run `php artisan migrate` to add database tables
 
 7) Run `php artisan key:generate` to create a new APP_KEY, this will automatically be added to the .env file
+
+8) Run `php artisan serve` to start the development server and go to http://127.0.0.1:8000 in your browser
+
+9) Enjoy!
